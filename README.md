@@ -73,11 +73,11 @@ Desarrollador autodidacta con fuerte enfoque técnico. Construyo sistemas que es
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=020408&title_color=00F5FF&text_color=C8E6FF&icon_color=FF00AA&border_radius=0)](https://github.com/TU_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanr8234&show_icons=true&theme=radical&hide_border=true&bg_color=020408&title_color=00F5FF&text_color=C8E6FF&icon_color=FF00AA&border_radius=0)](https://github.com/juanr8234)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=020408&title_color=00F5FF&text_color=C8E6FF&border_radius=0)](https://github.com/TU_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanr8234&layout=compact&theme=radical&hide_border=true&bg_color=020408&title_color=00F5FF&text_color=C8E6FF&border_radius=0)](https://github.com/juanr8234)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=radical&hide_border=true&background=020408&stroke=00F5FF&ring=FF00AA&fire=FF00AA&currStreakLabel=00F5FF&sideLabels=C8E6FF&dates=5C7DA0&border_radius=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juanr8234&theme=radical&hide_border=true&background=020408&stroke=00F5FF&ring=FF00AA&fire=FF00AA&currStreakLabel=00F5FF&sideLabels=C8E6FF&dates=5C7DA0&border_radius=0)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,9 +87,9 @@ Desarrollador autodidacta con fuerte enfoque técnico. Construyo sistemas que es
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@TU_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1628)](https://github.com/TU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1628)](https://linkedin.com/in/TU_USERNAME)
-[![Email](https://img.shields.io/badge/Email-contact@email.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1628)](mailto:tu@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@juanr8234-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1628)](https://github.com/juanr8234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1628)](https://linkedin.com/in/juanr8234)
+[![Email](https://img.shields.io/badge/Email-juanr8234@gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1628)](mailto:juanr8234@gmail.com)
 
 </div>
 
@@ -99,6 +99,6 @@ Desarrollador autodidacta con fuerte enfoque técnico. Construyo sistemas que es
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=5000&pause=1000&color=5C7DA0&center=true&vCenter=true&width=500&height=25&lines=%22Building+systems+for+the+future.%22)](https://git.io/typing-svg)
 
-![Profile Views](https://komainu8.github.io/github-profile-views-counter/badge?username=TU_USERNAME)
+![Profile Views](https://komainu8.github.io/github-profile-views-counter/badge?username=juanr8234)
 
 </div>
