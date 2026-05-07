@@ -88,7 +88,6 @@ Desarrollador autodidacta con fuerte enfoque técnico. Construyo sistemas que es
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@juanr8234-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1628)](https://github.com/juanr8234)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1628)](https://linkedin.com/in/juanr8234)
 [![Email](https://img.shields.io/badge/Email-juanr8234@gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1628)](mailto:juanr8234@gmail.com)
 
 </div>
