@@ -23,7 +23,7 @@
 ```ts
 const juan = {
   rol:         "Dev junior en formación",
-  ubicacion:   "🇨🇴 Colombia",
+  ubicacion:   "arg ARGENTINA",
   aprendiendo: ["TypeScript", "Next.js 15", "Diseño UI"],
   construyendo:"Mi portafolio + proyectos de práctica",
   buscando:    "Mi primera oportunidad como dev",
