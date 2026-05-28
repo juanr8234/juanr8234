@@ -94,5 +94,5 @@ const juan = {
 ---
 
 <p align="center">
-  <em>"No sé todo, pero estoy aprendiendo cada día. Si me das chance, no te arrepientes."</em>
+  <em>"no hay preguntas boludas, hay boludos que no preguntan"</em>
 </p>
